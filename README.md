@@ -2,7 +2,7 @@
 
 - 💡 A cloud native engineer, and also some hardware design
 - 🐨 Just another developer in the world
-- ⌨️ Use JavaScript and PHP languages
+- ⌨️ Use JavaScript, TypeScript, Go, Python and PHP languages
 - 😏 Loved having coffee
 - ✨ Simple is beautiful
 - 🦥 Write less, do more
