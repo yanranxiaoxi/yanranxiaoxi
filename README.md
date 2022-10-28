@@ -1,21 +1,32 @@
-### Hi there 👋
+![Header](assets/images/header.png)
 
-- 💡 A cloud native engineer, and also some hardware design
-- 🐨 Just another developer in the world
-- ⌨️ Use JavaScript, TypeScript, Go, Python and PHP languages
-- 😏 Loved having coffee
-- ✨ Simple is beautiful
-- 🦥 Write less, do more
+<p>
+  <h1 align="center">
+    <b>Hello there, I'm <a href="https://github.com/yanranxiaoxi">@yanranxiaoxi</a> 👋</b>
+  </h1>
+  <p align="center">
+    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Solutions Architect Expert" | "💼 JLC Elec. Co., Ltd." )</samp>
+  </p>
+</p>
 
-![XiaoXi's GitHub stats](https://github-readme-stats.api.soraharu.com/api?username=yanranxiaoxi&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark) <!--![Top Langs](https://github-readme-stats.api.soraharu.com/api/top-langs/?username=yanranxiaoxi&layout=compact&locale=cn)-->
+<p align="center">
+  <a href="https://github.com/yanranxiaoxi">
+    <img alt="GitHub Stats" src="https://github-readme-stats.api.soraharu.com/api?username=yanranxiaoxi&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+</p>
 
-<!--
-### 我的项目 / My Repositories
-
-<a href="https://github.com/yanranxiaoxi/Simplecho">
-  <img align="center" src="https://github-readme-stats.api.soraharu.com/api/pin/?username=yanranxiaoxi&repo=Simplecho&theme=github_dark" />
-</a>
-<a href="https://github.com/yanranxiaoxi/Smooth-Files-Gallery">
-  <img align="center" src="https://github-readme-stats.api.soraharu.com/api/pin/?username=yanranxiaoxi&repo=Smooth-Files-Gallery&theme=github_dark" />
-</a>
--->
+-----
+<p align="center">
+  <a href="https://github.com/yanranxiaoxi">
+    <img src="https://img.shields.io/badge/github-wei-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://soraharu.com">
+    <img src="https://img.shields.io/badge/website-soraharu.com-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/yanranxiaoxi">
+    <img src="https://img.shields.io/badge/linkedin-Mingjie_Fan-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://github.com/yanranxiaoxi">
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-yanranxiaoxi&label=visitors&color=grey&style=flat" />
+  </a>
+</p>
