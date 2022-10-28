@@ -18,7 +18,7 @@
 -----
 <p align="center">
   <a href="https://github.com/yanranxiaoxi">
-    <img src="https://img.shields.io/badge/github-wei-211F1F?logo=github&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/github-yanranxiaoxi-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
   <a href="https://soraharu.com">
     <img src="https://img.shields.io/badge/website-soraharu.com-1BC?logo=react&logoColor=white&style=flat-square" />
@@ -30,3 +30,5 @@
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-yanranxiaoxi&label=visitors&color=grey&style=flat" />
   </a>
 </p>
+
+<!-- Fork from @wei -->
