@@ -5,7 +5,7 @@
     <b>Hello there, I'm <a href="https://github.com/yanranxiaoxi">@yanranxiaoxi</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Solutions Architect Expert" | "💼 JLC Elec. Co., Ltd." )</samp>
+    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Solutions Architect Expert" | "💼 JLC Tech. Group Co., Ltd." )</samp>
   </p>
 </p>
 
